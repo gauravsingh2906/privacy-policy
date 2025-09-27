@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy - [Your App Name]</title>
+  <style>
+    body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; padding: 0; }
+    h1, h2 { color: #333; }
+    p { margin: 10px 0; }
+    ul { margin: 10px 0 10px 20px; }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy for [Your App Name]</h1>
+  <p><strong>Effective Date:</strong> [Insert Date]</p>
+
+  <h2>1. Information We Collect</h2>
+  <p>Currently, our app does <strong>not collect any personal information</strong> from users. Any data you enter in the app, such as game names, scores, or stats, is stored <strong>locally on your device</strong> and is not transmitted to any server.</p>
+
+  <h2>2. Ads</h2>
+  <p>Our app contains <strong>rewarded ads</strong> provided by third-party advertising partners. These ad networks may collect certain information automatically (like device identifiers) to deliver personalized ads. We do not control the data collected by the ad networks.</p>
+
+  <h2>3. Data Storage</h2>
+  <p>All game-related data (scores, stats, names) is stored <strong>locally on your device</strong> using Room database. We do not share this data with anyone.</p>
+
+  <h2>4. Children’s Privacy</h2>
+  <p>Our app is designed for users aged <strong>8 and above</strong>. We do not knowingly collect personal information from children under 13.</p>
+
+  <h2>5. Future Data Collection</h2>
+  <p>In the future, if we implement features that collect user data, we will update this Privacy Policy and notify users accordingly.</p>
+
+  <h2>6. Changes to This Policy</h2>
+  <p>We may update this Privacy Policy from time to time. Any changes will be posted at this URL.</p>
+
+  <h2>7. Contact Us</h2>
+  <p>If you have any questions about this Privacy Policy, please contact us at: <strong>[Your Email Address]</strong></p>
+</body>
+</html>
